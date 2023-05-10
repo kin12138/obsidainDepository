@@ -14,12 +14,37 @@
               "type": "markdown",
               "state": {
                 "file": "线程.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72c1e8215750874a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线程.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da7316a4a6d1ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "记录一段巧妙的代码.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,9 +89,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8e69c713354bded6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线程.md",
+                "file": "记录一段巧妙的代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线程.md",
+                "file": "记录一段巧妙的代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线程.md"
+                "file": "记录一段巧妙的代码.md"
               }
             }
           },
@@ -155,8 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff32175a5160061e",
+  "active": "da7316a4a6d1ff2e",
   "lastOpenFiles": [
-    "线程.md"
+    "线程.md",
+    "记录一段巧妙的代码.md",
+    "条件变量控制机制.canvas",
+    "c++线程.md"
   ]
 }
